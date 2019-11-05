@@ -62,20 +62,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\スクリプト\AI.cs" />
-    <Compile Include="Assets\スクリプト\Enemy.cs" />
-    <Compile Include="Assets\スクリプト\EnemyDataBase.cs" />
-    <Compile Include="Assets\スクリプト\GetStatus.cs" />
-    <Compile Include="Assets\スクリプト\Information.cs" />
-    <Compile Include="Assets\スクリプト\Item.cs" />
-    <Compile Include="Assets\スクリプト\ItemDataBase.cs" />
-    <Compile Include="Assets\スクリプト\Player.cs" />
-    <Compile Include="Assets\スクリプト\PlayerDataBase.cs" />
-    <Compile Include="Assets\スクリプト\Select.cs" />
-    <Compile Include="Assets\スクリプト\Skill.cs" />
-    <Compile Include="Assets\スクリプト\SkillDataBase.cs" />
-    <Compile Include="Assets\スクリプト\Start.cs" />
-    <Compile Include="Assets\スクリプト\Tatakau.cs" />
+    <Compile Include="Assets\Script\AI.cs" />
+    <Compile Include="Assets\Script\Enemy.cs" />
+    <Compile Include="Assets\Script\EnemyDataBase.cs" />
+    <Compile Include="Assets\Script\GetStatus.cs" />
+    <Compile Include="Assets\Script\Information.cs" />
+    <Compile Include="Assets\Script\Item.cs" />
+    <Compile Include="Assets\Script\ItemDataBase.cs" />
+    <Compile Include="Assets\Script\Player.cs" />
+    <Compile Include="Assets\Script\PlayerDataBase.cs" />
+    <Compile Include="Assets\Script\Select.cs" />
+    <Compile Include="Assets\Script\Skill.cs" />
+    <Compile Include="Assets\Script\SkillDataBase.cs" />
+    <Compile Include="Assets\Script\Start.cs" />
+    <Compile Include="Assets\Script\Tatakau.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/naras/Desktop/Charactopia/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e7ea7c369eebf479bbe4e0899b2e32, type: 3}
+  m_Name: "\u6C34"
+  m_EditorClassIdentifier: 
+  zokusei: {fileID: 2100000, guid: 9ea6bc60db87b8e4e96e254012014382, type: 2}
+  icon: {fileID: 21300000, guid: e0d06697951cbf14b826c54ed3a56b0f, type: 3}
+  enemyName: "\u6C34"
+  hp: 200
+  atk: 10
+  inc: 0
+  def: 10
+  mtl: 0
+  spd: 0
+  ai: 1
+  information: 
