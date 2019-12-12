@@ -1763,7 +1763,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyDataBase: {fileID: 11400000, guid: 7ad840fe0a869b04ca7f1f90e72abf72, type: 2}
   playerDataBase: {fileID: 11400000, guid: 15d5eddbab6032743a5c43a104bd61e5, type: 2}
-  kazu: 3
+  kazu: 2
   enemyName1: "\u706B"
   enemyName2: "\u706B"
   enemyName3: "\u6C34"

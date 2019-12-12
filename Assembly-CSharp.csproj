@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\AI.cs" />
+    <Compile Include="Assets\Script\BattleSystem.cs" />
     <Compile Include="Assets\Script\Enemy.cs" />
     <Compile Include="Assets\Script\EnemyDataBase.cs" />
     <Compile Include="Assets\Script\GetStatus.cs" />
